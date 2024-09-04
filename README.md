@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Muinde Nthusi , a Nairobian, and Kenyan 🇰🇪, and African 🌍, and in that particular order. 
+I'm Muinde Nthusi, a Nairobian, and Kenyan 🇰🇪, and African 🌍, and in that particular order. 
 
 I've been making websites 💻 since I was 13, and after discovering that computing 🧮 was an examinable subject in the Kenyan high school curriculum which was cool. I tinkered with Ruby on Rails after completing high school, and had made a rudimentary payment gateway web application before joining university. I studied medicine and surgery, and not computer science, but my passion for computers eclipsed my passion for medicine, and I find myself in uncharted waters: dreamy, optimistic, and excited.
 
