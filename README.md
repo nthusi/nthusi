@@ -2,7 +2,7 @@
 
 I'm Muinde Nthusi , a Nairobian, and Kenyan, and African, and in that particular order. 
 
-Talking about my hobbies and interests could fill up this entire page because I'm constantly curious, and seeking novelty. But coding, reading, gaming, hiking mountains, long distance running, photography, and overlanding in my home country and continent will probably be in my epitaph. I'm simply a nerd + nature + earth guy with a dose of astronomy. 
+Talking about my hobbies and interests could fill up this entire page, but I'll do it anyway. I'm constantly curious, and seeking novelty. But coding, reading, gaming, hiking mountains, long distance running, photography, and overlanding in my home country and continent will probably be in my epitaph. I'm simply a nerd + nature + earth guy with a dose of astronomy. 
 
 Check out my portfolio on VSCO [https://vsco.co/mnthusi/gallery], and on my personal website [https://nthusi.github.io/elements/] if you're interested in viewing, and acquiring authentic African art. I'm not Basquiat, but I'm a starving artist. 
 
