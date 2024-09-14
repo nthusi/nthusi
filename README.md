@@ -12,7 +12,7 @@ Fun facts: Orion is my favourite constellation ⭐. I resonate with Kid Cudi, an
 
 Ask me about: solving complex problems in health, and in Africa with code. And how we can scale such solutions. We'll definitely need to start with a C4 diagram, and who knows? We might just make something work, and for the benefit of others.
 
-Oooh, and I'm a medical doctor 🩺, but I don't do titles, and my profession most definitely doesn't build my identity and persona.
+Oooh, and I'm a medical doctor 🩺, but I don't do titles, and my profession most definitely doesn't define my identity and persona.
 
 
 <!--
