@@ -2,7 +2,7 @@
 
 I'm Muinde Nthusi, a son of the soil.
 
-Started off with Ruby which was nice, and I'm now in Python, which is also nice.
+Started off with Ruby which was nice, and I'm now in Python which is also nice.
 
 
 
