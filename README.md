@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Muinde Nthusi, a son of the soil.
+I'm Muinde Nthusi, a son of the soil, and a straving artist.
 
 Started off with Ruby which was nice, and I'm now in Python which is also nice.
 
